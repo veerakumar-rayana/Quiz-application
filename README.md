@@ -6,3 +6,4 @@ to run : py manage.py makemigrations
 py manage.py migrate 
 py manage.py runserver 
 paste the url in a web browser and start using the application.
+https://bolder-linen-camera.glitch.me
